@@ -55,3 +55,8 @@ This project is a 3D game created using Unity where the player navigates through
 - **Left Mouse Button**: Use the sledgehammer to destroy cubes
 - **X**: Exit the game
 - **E**: Finish the game on level `L`
+
+## Credits
+Eleni Mouzaki
+
+Panagiotis Papaioannou
